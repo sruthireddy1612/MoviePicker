@@ -21,5 +21,4 @@
 
     <style name="Theme.MoviePicker.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
-    <style name="Theme.MoviePicker.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
